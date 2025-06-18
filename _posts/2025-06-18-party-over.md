@@ -1,6 +1,6 @@
 ---
 layout: post
-title: the party is over (done drinking)
+title: "the party is over (done drinking)"
 date: 2025-08-18
 --- 
 
